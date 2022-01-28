@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0; 
+    text-decoration: none;
+    box-sizing: border-box;}
+
+.Contador {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
